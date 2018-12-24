@@ -1,6 +1,6 @@
 package mate.academy.jdbcdemo.dao;
 
-import mate.academy.jdbcdemo.molel.User;
+import mate.academy.jdbcdemo.model.User;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

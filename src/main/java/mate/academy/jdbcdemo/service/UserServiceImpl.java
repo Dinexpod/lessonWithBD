@@ -1,7 +1,7 @@
 package mate.academy.jdbcdemo.service;
 
 import mate.academy.jdbcdemo.dao.UserDao;
-import mate.academy.jdbcdemo.molel.User;
+import mate.academy.jdbcdemo.model.User;
 
 public class UserServiceImpl implements UserService {
     private final UserDao userDao;

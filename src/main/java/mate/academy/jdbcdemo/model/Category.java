@@ -1,4 +1,4 @@
-package mate.academy.jdbcdemo.molel;
+package mate.academy.jdbcdemo.model;
 
 import java.util.Set;
 

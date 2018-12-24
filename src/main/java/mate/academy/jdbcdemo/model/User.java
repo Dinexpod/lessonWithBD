@@ -1,4 +1,4 @@
-package mate.academy.jdbcdemo.molel;
+package mate.academy.jdbcdemo.model;
 
 public class User {
     private long id;

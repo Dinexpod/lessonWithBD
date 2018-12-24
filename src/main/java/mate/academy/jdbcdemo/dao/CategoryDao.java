@@ -1,9 +1,8 @@
 package mate.academy.jdbcdemo.dao;
 
-import mate.academy.jdbcdemo.molel.Book;
-import mate.academy.jdbcdemo.molel.Category;
+import mate.academy.jdbcdemo.model.Book;
+import mate.academy.jdbcdemo.model.Category;
 
-import java.util.List;
 import java.util.Set;
 
 public interface CategoryDao {
